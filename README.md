@@ -1,26 +1,25 @@
 # WeTechFreeResoursesDirectionSite
 
 
-<h1> The goal of this site is to provide individual with tools they need to succeed, but for free </h1>
+## The goal of this site is to provide individual with tools they need to succeed, but for free </h1>
 
-<h1> Home Page </h2>
+### Home Page
 
 <img src="shot1.png">
 
-<h1>Sub Page / Development </h2>
+#### Sub Page / Development 
 
 <img src="shot2.png">
 
-<h1> Sub Page / Crypto Currencys </h2>
+#### Sub Page / Crypto Currencys 
 
 <img src="shot3.png">
 
-<h3> ToDo on site </h3>
+#### ToDo on site 
 
 <p> Provied more sub pages that will specifically catogorize each proffersional </p>
 
-<h3> contributor </h3>
+####  contributor 
 
-<p> Open project </p>
-
+None
 
