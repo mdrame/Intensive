@@ -1,0 +1,239 @@
+
+.firstrow{
+	background: #1f2323;
+}
+
+.logo{
+	width: 25%;
+	margin: 10px auto auto 20px;
+	animation-name: logomovement;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+
+
+}
+
+@keyframes logomovement{
+
+0% {transform: translateX(0px);}
+50% {transform: translateX(200px);}
+100% {transform: translate(0px);}
+
+
+}
+
+
+.navbutton{
+	margin-top: 30px;
+	width: 100%;
+	height: 50px;
+	font-size: 23px;
+	font-family: 'Teko', sans-serif;
+	background: #4bafa4;
+	border: 1px solid #4bafa4;
+	transition: 0.6s;
+}
+
+.navbutton:hover{
+
+	
+	background: #2f726b;
+	border: 1px solid gray;
+	color: white;
+	
+}
+
+
+#onPage{
+	border: 1px solid #2f726b;
+	background: #2f726b;
+	color :white;
+}
+
+
+.userinput{
+margin-top: 40px;
+width: 25%;
+height: 40px;
+border: 2px solid #dddddd;
+border-radius: 5px;
+font-size: 15px;
+text-align: left;
+cursor: pointer;
+padding: 10px;
+ font-family: 'Chau Philomene One', sans-serif;
+
+}
+
+
+
+.userpassword{
+	margin-top: 40px;
+	width: 25%;
+height: 40px;
+border: 2px solid #dddddd;
+border-radius: 5px;
+font-size: 15px;
+text-align: left;
+cursor: pointer;
+padding: 10px;
+ font-family: 'Chau Philomene One', sans-serif;
+
+}
+
+.inUpdiv{
+	
+	text-align: center;
+}
+
+#signinupform{
+
+background: #1f2323;
+
+}
+
+
+
+.loginbutton{
+
+	max-width: 70%;
+height: 40px;
+border: 2px solid #1f2323;
+font-size: 20px;
+background: yellow;
+border-radius: 8px;
+transition: 0.9s;
+font-family: 'Josefin Slab', serif;
+
+}
+
+.loginbutton:hover{
+background: #b7a237;
+box-shadow: 2px 2px 10px white;
+}
+
+
+
+
+}
+
+/*taking this signUpbutton coding breaks the site buy marginalizing evering to the left*/
+
+.signupbutton a{
+	color: black;
+	text-decoration: none;
+}
+
+.signupbutton a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+.secondrow{
+
+	margin-top: 200px;
+	text-align: center;
+	background: #f4f4f4;
+
+}
+
+
+.coursesImages{
+
+	width: 20%;
+	height: auto;
+	margin-top: 50px;
+	;
+
+}
+
+
+
+
+
+
+.courses{
+
+width: 30%;
+margin: 20px auto 30px auto;
+color: #84747f;
+text-shadow: 1px 1px black;
+font-family: 'Righteous', cursive;
+border-radius: 20px;
+
+}
+
+
+.corsetittle {
+
+font-size: 120%;
+background: #565555;
+margin:10px auto auto auto;
+width: 350px;
+color: white;
+padding: 10px;
+
+
+}
+
+
+p{
+
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-size: 20px;
+}
+
+#last{
+	margin: 20px auto auto auto;
+	width: 100%;
+background: gray;
+border-top-style: dashed;
+border-width: 5px;
+border-top-color: gray;
+
+	height: 100%;
+}
+
+.pravicy{
+
+
+width: 30%;
+height: 100px;
+margin-top: 30px;
+
+
+}
+
+
+.pravicy p{
+
+width: 40%;
+margin:10px  auto;
+
+}
+
+ .stayConnected p{
+
+width: 40%;
+margin:  auto;
+
+}
+
+ .stayConnected img{
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+
+}
+
+
+
+.stayConnected{
+margin-top: 30px;
+
+width: 20%;
+height: 100px;
+position: 
+
+
+}
