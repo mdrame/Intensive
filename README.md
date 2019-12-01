@@ -15,11 +15,12 @@
 
 <img src="shot3.png">
 
-#### ToDo on site 
+### Technologies
 
-<p> Provied more sub pages that will specifically catogorize each proffersional </p>
+  * HTML, CSS
 
-####  contributor 
+#### Todo
+  * Provied more sub pages that will specifically catogorize each proffersional
 
-None
+
 
