@@ -20,7 +20,8 @@
   * HTML, CSS
 
 #### Todo
-  * Provied more sub pages that will specifically catogorize each proffersional
+
+  * Structure files 
 
 
 
