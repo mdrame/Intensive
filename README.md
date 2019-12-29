@@ -1,9 +1,6 @@
-## WeTechFreeResoursesDirectionSite Term Two SPD Final project
+###  Term Two SPD Final project
 
-
-## The goal of this site is to provide individual with tools they need to succeed, but for free </h1>
-
-### Home Page
+#### Home Page
 
 <img src="shot1.png">
 
